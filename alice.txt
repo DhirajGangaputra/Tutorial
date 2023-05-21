@@ -1,2 +1,4 @@
 This is Alice.txt file
 awesome
+its great thing 
+interested tooo
